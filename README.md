@@ -1,2 +1,2 @@
-# Smart-Template-Hungry-Bash
+# courseapp
 Created with CodeSandbox

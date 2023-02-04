@@ -1,0 +1,63 @@
+// 23/09/2021
+- completed review adding on courses and to the user ongoing course
+
+// 24/09/2021
+// completed
+- storing quiz and showing it, when the user request for
+- share button
+
+// 25/09/2021
+ - idle timeout
+
+// 28/09/2020
+// todo
+- need a modal for courseBuy
+- lifetime / periods
+- payment gateway
+  i) add bought course to order list as well as ongoingCourse(after
+payment is integrated)
+- logo
+- navbar
+- home page(browse top courses)
+- about us, static data, later we can add
+- add currentSec, top and timing when idleTimeOut and when closing the tab or window
+- directly give logout, from video, then the current section topic time should be updated
+- no need to save password in user db
+- increment no of students in particular courses
+
+
+last priority:
+- review edit & delete (bcs no one will access this immediatly)
+
+next update:
+- only videos can be viewed in the topics, what if it is a pdf?
+- search bar
+
+ishu:
+- online/live filter
+- contact us(submit button - send email)//completed have to change email id
+(smtp.js or mailto)
+- video should not be download (no screenshot should be taken)
+
+
+sanjay:
+- before buy, coursePage, correct data's
+- zoom integration
+- adding duration to the courses, how many days its valid
+& courseBoughtTimestamp
+- when closing the tab or window, logout the user and change
+isLoggedIn to false
+
+akhil:
+- pagination
+- materials
+- footer
+
+completed:
+- coursePriceBox - before buy / when login working, logout not showing
+- exams hide
+- user dashboard (certification, reviews, others - hide)
+- forget password - backend work completed
+- quiz last section
+- reset password modal
+- forgot password UI work
